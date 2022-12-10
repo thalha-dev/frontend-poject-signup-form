@@ -1,0 +1,6 @@
+# FRONTEND PROJECT - 1
+
+#### TECH
+
+- HTML
+- CSS
